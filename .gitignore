@@ -1,0 +1,89 @@
+# Flutter/Dart related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/.last_build_id
+
+# IntelliJ related (including Android Studio)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code related
+.vscode/
+.history/
+
+# macOS related
+macos/Flutter/ephemeral/
+*.xcworkspace
+*.xcuserdata/
+*.lock
+*.xcuserstate
+DerivedData/
+.build/
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/gradle.properties
+android/.idea/
+
+# Web related
+web/.dart_tool/
+web/.packages
+web/build/
+
+# Linux related
+linux/flutter/ephemeral/
+
+# Windows related
+windows/flutter/ephemeral/
+
+# Firebase related
+firebase_app_distribution.apk
+firebase_app_distribution.json
+
+# IDE files
+*.log
+.idea/
+*.iml
+
+# Flutter Package with example project
+example/.dart_tool/
+example/.flutter-plugins
+example/.flutter-plugins-dependencies
+example/.packages
+example/.pub-cache/
+example/.pub/
+example/build/
+example/ios/Flutter/.last_build_id
+example/android/.gradle/
+example/android/local.properties
+example/.vscode/
+example/macos/Flutter/ephemeral/
+example/windows/flutter/ephemeral/
+example/linux/flutter/ephemeral/
+
+# Coverage
+coverage/
+coverage.lcov
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.DS_Store
+*.lock
+
+# Exclude Personal/Local Configurations
+*.env
